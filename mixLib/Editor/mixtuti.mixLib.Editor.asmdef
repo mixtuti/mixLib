@@ -1,0 +1,16 @@
+{
+    "name": "mixtuti.mixLib.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a64e9d7da396f974daa94df4f3342e1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

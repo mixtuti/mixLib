@@ -1,0 +1,16 @@
+{
+    "name": "mixtuti.mixLibResources",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3b7b97eea68af0d4dbc4f3e7bbda788e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
